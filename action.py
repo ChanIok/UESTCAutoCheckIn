@@ -8,7 +8,7 @@ data_normal = {
     "yesterdayEveningTemperature": "36°C~36.5°C",
     "yesterdayMiddayTemperature": "36°C~36.5°C",
     "healthColor": "绿色",
-    "location": "四川省成都市郫都区丹桂路",
+    "location": "四川省成都市郫都区硕丰苑18号",
 }
 url_normal = r'https://jzsz.uestc.edu.cn/wxvacation/monitorRegisterForReturned'
 data_vacation = {
