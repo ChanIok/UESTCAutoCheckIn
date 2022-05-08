@@ -13,17 +13,17 @@ data_normal = {
 url_normal = r'https://jzsz.uestc.edu.cn/wxvacation/monitorRegisterForReturned'
 data_vacation = {
     "isLeaveChengdu": 1,
-    "currentAddress": "浙江省宁波市北仑区abc路",
+    "currentAddress": "四川省成都市郫都区硕丰苑18号",
     "isContactWuhan": 0,
     "isSymptom": 0,
     "temperature": "36°C~36.5°C",
-    "province": "浙江省",
+    "province": "四川省",
     "healthInfo": "正常",
     "isFever": 0,
     "remark": "",
     "healthColor": "绿色",
-    "city": "宁波市",
-    "county": "北仑区",
+    "city": "成都市",
+    "county": "郫都区",
     "isInSchool": 0
 }
 url_vacation = r'https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister'
